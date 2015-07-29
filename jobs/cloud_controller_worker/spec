@@ -13,7 +13,7 @@ templates:
   console.erb: bin/console
 
 packages:
-  - common
+  - api-common
   - cloud_controller_ng
   - nginx
   - nginx_newrelic_plugin
